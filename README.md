@@ -1,0 +1,1 @@
+This was a refactor project. Tasked with making the code more clear to read along with simplfiying the code and removing redundant classes and ID's etc. 
